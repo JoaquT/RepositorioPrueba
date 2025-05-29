@@ -29,7 +29,7 @@ class Node{
     int num;
     Node next;
     public Node(int num){
-        this.num = num;
+        this.num = num; //:)
         this.next = null;
     }
     public static void traverse_linked_list(Node head){
